@@ -36,6 +36,9 @@ p {
 }
 
 @media (max-width: 768px) {
+  body {
+    overflow: hidden;
+  }
   p {
     font-size: 50px;
   }
