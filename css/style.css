@@ -20,7 +20,7 @@ body {
   animation-fill-mode: forwards;
 }
 
-h1 {
+p {
   font-size: 80px;
   line-height: 1.5;
   margin: 0;
@@ -36,7 +36,7 @@ h1 {
 }
 
 @media (max-width: 768px) {
-  h1 {
+  p {
     font-size: 50px;
   }
   body {
